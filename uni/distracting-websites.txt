@@ -1,11 +1,7 @@
-#HOME
+#WORK
 
 ###Exceptions
-+*.youtube.com
-+*.netflix.com
-+*.disneyplus.com
-+*.bbc.co.uk/iplayer
-+*.twitch.tv/
++music.youtube.com
 
 ###distracting-websites-existing
 *.0xdd.org.ru
