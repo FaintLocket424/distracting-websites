@@ -20,8 +20,8 @@
 *.aljazeera.com
 *.allmusic.com
 *.alternet.org
-*.amazon.com
 *.amazon.co.uk
+*.amazon.com
 *.americanthinker.com
 *.anandtech.com
 *.androidauthority
@@ -30,6 +30,7 @@
 *.apnews.com
 *.apple.com
 *.arstechnica.com
+*.asofterworld.com
 *.astralcodexten.com
 *.audiodiscourse.com
 *.avclub.com
@@ -72,12 +73,15 @@
 *.boingboing.net
 *.bolha.social
 *.bordermail.com.au
+*.bostonglobe.com
 *.break.com
 *.breitbart.com
 *.brisbanetimes.com.au
 *.brw.com.au
 *.bsky.app
 *.businessinsider.com
+*.buttercupfestival.com
+*.buttersafe.com
 *.buzzfeed.com
 *.buzzfeednews.com
 *.c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion
@@ -94,6 +98,7 @@
 *.character.ai
 *.chat-gpt.org
 *.christianitytoday.com
+*.cinemos.com
 *.clutchpoints.com
 *.cnbc.com
 *.cnet.com
@@ -217,6 +222,7 @@
 *.ghacks.net
 *.gigaom.com
 *.gizmodo.com
+*.glitchwave.com
 *.gocomics.com
 *.goldderby.com
 *.gossipcop.com
@@ -233,6 +239,7 @@
 *.history.com
 *.hollywoodinsider.com
 *.hollywoodreporter.com
+*.homestuck.com
 *.horseandhound.co.uk
 *.hothardware.com
 *.howtogeek.com
@@ -292,6 +299,7 @@
 *.jauntypix.net
 *.join-lemmy.org
 *.joinmastodon.org
+*.jspowerhour.com
 *.justfacts.com
 *.justfactsdaily.com
 *.kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion
@@ -357,6 +365,7 @@
 *.mastodon.xyz
 *.mediaite.com
 *.medium.com
+*.megatokyo.com
 *.mentalfloss.com
 *.metafilter.com
 *.metapixl.com
@@ -460,6 +469,7 @@
 *.oann.com
 *.occupydemocrats.com
 *.odysee.com
+*.oglaf.com
 *.ohai.social
 *.omegle.com
 *.omgubuntu.co.uk
@@ -471,6 +481,7 @@
 *.palmerreport.com
 *.paperio.com
 *.paramountplus.com
+*.pbfcomics.com
 *.pbs.org
 *.pcpartpicker.com
 *.peacocktv.com
@@ -528,6 +539,7 @@
 *.pulse.ng
 *.pxlmo.com
 *.qobuz.com
+*.questionablecontent.net
 *.quillette.com
 *.quora.com
 *.qwantz.com
@@ -564,6 +576,7 @@
 *.slither.io
 *.slrpnk.net
 *.sltrib.com
+*.smbc-comics.com
 *.smh.com.au
 *.social.bau-ha.us
 *.social.vivaldi.net
@@ -573,6 +586,7 @@
 *.space.com
 *.spectator.org
 *.speedrun.com
+*.spiegel.de
 *.spindices.com
 *.splix.io
 *.sportskeeda.com
@@ -588,6 +602,7 @@
 *.substack.com
 *.sundaystartimes.co.nz
 *.sunherald.com.au
+*.suntimes.com
 *.swisstoots.ch
 *.talkingpointsmemo.com
 *.tanx.io
@@ -626,8 +641,8 @@
 *.thenextweb.com
 *.theonion.com
 *.therealnews.com
-*.theregister.com
 *.theregister.co.uk
+*.theregister.com
 *.thesandpaper.net
 *.thesun.co.uk
 *.thesundaytimes.co.uk
@@ -637,6 +652,7 @@
 *.thisdaylive.com
 *.thisismoney.co.uk
 *.threads.net
+*.threewordphrase.com
 *.tictoc.social
 *.tiktok.com
 *.time.com
@@ -695,6 +711,7 @@
 *.vrv.co
 *.w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion
 *.waitbutwhy.com
+*.waitbutwhy.com
 *.washingtonexaminer.com
 *.washingtonmonthly.com
 *.washingtonpost.com
@@ -731,6 +748,7 @@
 *.zombs.io
 *.zoopla.co.uk
 +facebook.com/messages
++music.youtube.com
 0xdd.org.ru
 26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion
 3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion
@@ -755,8 +773,8 @@ albumoftheyear.org
 aljazeera.com
 allmusic.com
 alternet.org
-amazon.com
 amazon.co.uk
+amazon.com
 americanthinker.com
 anandtech.com
 androidauthority
@@ -765,6 +783,7 @@ animalplanet.com
 apnews.com
 apple.com
 arstechnica.com
+asofterworld.com
 astralcodexten.com
 audiodiscourse.com
 avclub.com
@@ -807,12 +826,15 @@ bodyandsoul.com
 boingboing.net
 bolha.social
 bordermail.com.au
+bostonglobe.ocm
 break.com
 breitbart.com
 brisbanetimes.com.au
 brw.com.au
 bsky.app
 businessinsider.com
+buttercupfestival.com
+buttersafe.com
 buzzfeed.com
 buzzfeednews.com
 c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion
@@ -829,6 +851,7 @@ cc.com
 character.ai
 chat-gpt.org
 christianitytoday.com
+cinemos.com
 clutchpoints.com
 cnbc.com
 cnet.com
@@ -952,6 +975,7 @@ getpocket.com
 ghacks.net
 gigaom.com
 gizmodo.com
+glitchwave.com
 gocomics.com
 goldderby.com
 gossipcop.com
@@ -968,6 +992,7 @@ hiqarchitectura.com
 history.com
 hollywoodinsider.com
 hollywoodreporter.com
+homestuck.com
 horseandhound.co.uk
 hothardware.com
 howtogeek.com
@@ -976,6 +1001,8 @@ huffingtonpost.com
 huggingface.co
 hulu.com
 hydrogenaud.io
+hyperboleandahalf.blogspot.com
+hyperboleandahalf.blogspot.com/
 i23nv6w3juvzlw32xzoxcqzktegd4i4fu3nmnc2ewv4ggiu4ledwklad.onion
 icio.us
 ieji.de
@@ -1027,6 +1054,7 @@ jacobinmag.com
 jauntypix.net
 join-lemmy.org
 joinmastodon.org
+jspowerhour.com
 justfacts.com
 justfactsdaily.com
 kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion
@@ -1092,6 +1120,7 @@ mastodon.world
 mastodon.xyz
 mediaite.com
 medium.com
+megatokyo.com
 mentalfloss.com
 metafilter.com
 metapixl.com
@@ -1195,6 +1224,7 @@ nytimes.com
 oann.com
 occupydemocrats.com
 odysee.com
+oglaf.com
 ohai.social
 omegle.com
 omgubuntu.co.uk
@@ -1206,6 +1236,7 @@ pagesix.com
 palmerreport.com
 paperio.com
 paramountplus.com
+pbfcomics.com
 pbs.org
 pcpartpicker.com
 peacocktv.com
@@ -1263,6 +1294,7 @@ propublica.org
 pulse.ng
 pxlmo.com
 qobuz.com
+questionablecontent.net
 quillette.com
 quora.com
 qwantz.com
@@ -1299,6 +1331,7 @@ sling.com
 slither.io
 slrpnk.net
 sltrib.com
+smbc-comics.com
 smh.com.au
 social.bau-ha.us
 social.vivaldi.net
@@ -1308,6 +1341,7 @@ soundcloud.com
 space.com
 spectator.org
 speedrun.com
+spiegel.de
 spindices.com
 splix.io
 sportskeeda.com
@@ -1323,6 +1357,7 @@ stuff.co.nz
 substack.com
 sundaystartimes.co.nz
 sunherald.com.au
+suntimes.com
 swisstoots.ch
 talkingpointsmemo.com
 tanx.io
@@ -1361,8 +1396,8 @@ thenation.com
 thenextweb.com
 theonion.com
 therealnews.com
-theregister.com
 theregister.co.uk
+theregister.com
 thesandpaper.net
 thesun.co.uk
 thesundaytimes.co.uk
@@ -1372,6 +1407,7 @@ theweek.com
 thisdaylive.com
 thisismoney.co.uk
 threads.net
+threewordphrase.com
 tictoc.social
 tiktok.com
 time.com
@@ -1429,6 +1465,7 @@ vogue.com
 vox.com
 vrv.co
 w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion
+waitbutwhy.com
 waitbutwhy.com
 washingtonexaminer.com
 washingtonmonthly.com
